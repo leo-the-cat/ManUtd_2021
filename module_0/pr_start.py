@@ -1,4 +1,5 @@
 # This programm guesses number in the range from 1 to 1000 and returns total amount of attempts.
+
 import random
 left=1
 right=1000
